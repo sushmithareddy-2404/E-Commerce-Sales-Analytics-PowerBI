@@ -6,6 +6,17 @@ The goal of this project was to turn raw sales data into an easy-to-understand d
 
 ---
 
+## Dashboard Preview
+
+### Executive Dashboard
+![Executive Dashboard](Screenshots/Executive%20Dashboard.jpg)
+
+### Customer Analytics
+![Customer Analytics](Screenshots/Customer%20Analytics.jpg)
+
+### Product Analytics
+![Product Analytics](Screenshots/Product%20Analytics.jpg)
+
 ## Project Overview
 
 This project analyzes e-commerce data from different perspectives:
