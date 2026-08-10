@@ -196,15 +196,16 @@ Based on the patterns shown in the dashboard:
 # Project Structure
 
 ```text
-E-Commerce-Sales-Analytics/
+E-Commerce-Sales-Analytics-PowerBI/
 │
 ├── README.md
 │
 ├── Dashboard/
-│   └── E-Commerce_Sales_Analytics_Dashboard.pbix
+│   └── Ecommerce_Sales_Analytics_Dashboard.pbix
 │
 ├── Documentation/
-│   └── E-Commerce_Sales_Analytics_Project_Documentation.pdf
+│   ├── E-Commerce_Sales_Analytics_Project_Documentation.pdf
+│   └── E-Commerce_Sales_Analytics_Project_Documentation.docx
 │
 └── Screenshots/
     ├── Executive-Dashboard.jpg
